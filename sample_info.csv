@@ -1,0 +1,2 @@
+patient,sample,lane,platform,fastq_1,fastq_2
+sample,sample,L001,illumina,./data/01-Raw_data/sample_1.fastq.gz,./data/01-Raw_data/sample_2.fastq.gz
