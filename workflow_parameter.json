@@ -4,15 +4,15 @@
 
 {
   "input":{
-    "description": "Input samplesheet file",
-    "default": "sample1/samplesheet.csv"
+    "description": "Input sample_sheet file (CSV format)",
+    "default": "/data/sample_sheet.csv"
   },
   "genome":{
-    "description":"reference FASTA file",
+    "description":"Reference genome file (FASTA format)",
     "default": "/data/00-Ref/hg38_chr21.fa"
   },
   "known_sites_vcf":{
-    "description": "VCF path",
-    "default": "knownsites.vcf"
+    "description": "Known sites file (VCF format)",
+    "default": "/data/00-Ref/known_sites.vcf"
   }
 }
