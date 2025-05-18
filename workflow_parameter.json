@@ -1,0 +1,18 @@
+##params.input = false
+##params.genome = "$baseDir/data/00-Ref/hg38_chr21.fa"
+##params.known_sites_vcf = "$baseDir/data/00-Ref/Known_sites/*.{vcf,vcf.gz}"
+
+{
+  "input":{
+    "description": "Input samplesheet file",
+    "default": "null"
+  },
+  "genome":{
+    "description":"reference FASTA file",
+    "default": "/data/00-Ref/hg38_chr21.fa"
+  },
+  "known_sites_vcf":{
+    "description": "VCF path",
+    "default": "knownsites.vcf"
+  }
+}
