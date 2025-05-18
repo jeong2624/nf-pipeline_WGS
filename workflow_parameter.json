@@ -5,7 +5,7 @@
 {
   "input":{
     "description": "Input samplesheet file",
-    "default": "null"
+    "default": "sample1/samplesheet.csv"
   },
   "genome":{
     "description":"reference FASTA file",
