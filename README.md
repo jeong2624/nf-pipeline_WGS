@@ -1,4 +1,4 @@
-This pipeline was designed based on my understanding of Nextflow acquired through self-study, as part of my role in a mini project.
+This pipeline was designed based on my understanding of Nextflow acquired through self-study, as part of my role in a toy project.
 
 It performs DNA sequencing analysis, covering the entire process from raw data quality control to variant calling.
 
